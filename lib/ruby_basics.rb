@@ -3,11 +3,11 @@ def division(num1, num2)
 end
 
 def assign_variable(value)
-  variable = value
+  name = value
 end
 
-def argue
-  
+def argue(value)
+  value
 end
 
 def greeting
